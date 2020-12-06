@@ -1,5 +1,7 @@
 # CPU-Scheduling-Algorithm-Simulation
 
+![Screenshot](screenshot.png)
+
 A python project that implements matplotlib to create a live visual of different scheduling algorithms for central processing units. 
 
 To run:
